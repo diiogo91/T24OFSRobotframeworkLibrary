@@ -1,8 +1,3 @@
-# ==========================================
-# Company:  Standard Bank Mozambique
-# Created by: DXP QA
-# Date:   11 February 2022
-# ==========================================
 from robot.api.deco import keyword, library
 
 from .T24Client import T24Client

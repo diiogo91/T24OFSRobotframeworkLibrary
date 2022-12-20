@@ -1,9 +1,3 @@
-# ==========================================
-# Company:  Standard Bank Mozambique
-# Created by: DXP QA
-# Date:   14 June 2022
-# ==========================================
-
 import base64
 import json
 import requests
